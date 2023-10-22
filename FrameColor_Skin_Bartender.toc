@@ -1,8 +1,9 @@
 ## Interface: 100107
-## Version: 1
+## Version: @project-version@
 ## Title: FrameColor_Skin_Bartender
 ## Author: Slothpala
-##Dependencies: Bartender4, FrameColor
+## Dependencies: Bartender4, FrameColor
+## X-Curse-Project-ID: 926216
 
 FrameColor_Skin_Bartender.lua
 
