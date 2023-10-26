@@ -48,6 +48,7 @@ function module:Recolor(main_color, desaturation)
             BartenderPetActionButton:SetVertexColor(main_color.r,main_color.g,main_color.b,main_color.a)
         end
     end
+    --bar art
     local BT4BarBlizzardArt = BT4BarBlizzardArt
     if BT4BarBlizzardArt then
         for _,v in pairs({
